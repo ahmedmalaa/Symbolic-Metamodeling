@@ -10,6 +10,5 @@ xgboost==0.90
 lime==0.1.1.34
 Keras==2.0.6
 mpmath==1.1.0
-~andas==0.21.1
 pandas==0.25.2
 scikit_learn==0.21.3
