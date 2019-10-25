@@ -1,4 +1,4 @@
-# Symbolic-Metamodeling
+# Symbolic Metamodeling
 Code for the NeurIPS 2019 paper "Demystifying Black-box Models with Symbolic Metamodels".
 
 If you use our code in your research, please cite:
